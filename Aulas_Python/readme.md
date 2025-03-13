@@ -1,1 +1,1 @@
-Aulas de introdução de Python gentilmente disponibilizadas pelo Professor Pedro Constantino.
+Aulas de introdução a Python gentilmente disponibilizadas pelo Professor Pedro Constantino.
