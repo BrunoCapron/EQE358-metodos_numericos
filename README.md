@@ -1,1 +1,1 @@
-# EQE358-m-todos_n-mericos
+# EQE358-Metodos-Numericos
